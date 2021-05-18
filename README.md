@@ -4,7 +4,7 @@
 
 Android Digipad
 ========================================================
-[![Version](https://img.shields.io/badge/version-0.1.0-green)](#) 
+[![Version](https://img.shields.io/badge/version-0.1.0-green)](https://github.com/yogacp/android-digipad/releases/tag/0.1.0) 
 ----------------------------------------------------------
 
 Digipad is a simple library for Android that only show a numeric keyboard onscreen
