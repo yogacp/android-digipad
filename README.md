@@ -54,6 +54,7 @@ In your **Activity**, add the default setup below:
 ```kotlin
 class SampleActivity : AppCompatActivity() {
 
+    //by viewBinding() is a binding delegation library
     private val binding: ActivitySampleBinding by viewBinding()
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -80,5 +81,8 @@ class SampleActivity : AppCompatActivity() {
     }
 }
 ```
+
+PS: `by viewBinding()` is a binding delegation library from this github: <a href="https://github.com/yogacp/android-viewbinding" target="_blank">Android Viewbinding Delegation Library</a>
+
 
 ##### Happy coding :)
